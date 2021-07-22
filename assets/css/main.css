@@ -99,8 +99,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: rgb(34,193,195);
-		background-color: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+background: rgb(34,193,195);
+background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -118,8 +118,8 @@ input, select, textarea {
 
 
 	body {
-		background-color: rgb(34,193,195);
-		background-color: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+background: rgb(34,193,195);
+background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 	}
 
 	body, input, select, textarea {
